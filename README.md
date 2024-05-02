@@ -1,24 +1,17 @@
-# vue-expense-tracker
+## Project Name: Vue.js Expense Tracker
 
-## Project setup
-```
-npm install
-```
+## Overview:
+This application allows users to manage transactions, automatically calculates balances, and uses local storage to save data. It's built with Vue 3 and utilizes modern JavaScript features for a responsive user interface.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Features:
+## Add, edit, and delete transactions.
+Calculate and display balances, incomes, and expenses.
+Use local storage for persistence.
+Setup Instructions:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Clone the project.
+Install dependencies using npm install.
+Run the project locally with npm run serve.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Usage:
+Interact with the application through the web interface to manage financial transactions.
